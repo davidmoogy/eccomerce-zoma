@@ -1,0 +1,142 @@
+.header-container{
+    width: 100%;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2e4790;
+}
+
+header{
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 20px;
+}
+
+nav{
+  display: flex;
+  
+}
+ul{
+  display: flex;
+  gap: 50px;
+}
+li{
+  display: flex;
+ ;
+}
+li > a{
+ 
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  text-decoration: none;
+}
+
+.icons-container{
+   display: flex;
+   align-items: center;
+   gap: 20px;
+}
+.icons-container > button{
+    width: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+}
+
+.icons-container > button.flag {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #fff;
+}
+
+.cart-btn{
+  position:relative;
+  border:none;
+  background:white;
+  cursor:pointer;
+}
+
+.quantity{
+  position:absolute;
+
+  top:-8px;
+  right:-8px;
+
+  width:20px;
+  height:20px;
+
+  background:red;
+  color:white;
+
+  border-radius:50%;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  font-size:12px;
+  font-weight:bold;
+}
+
+.flag{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   background-color: transparent;
+
+   border-radius:50%;
+   border:1px solid red;
+
+   cursor:pointer;
+}
+
+.categoty-buttons{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.categoty-buttons > button{
+    width:120px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+    padding: 20px;
+  height: 16px;
+  flex-grow: 0;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  border-radius: 20px;
+  border: none;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  background-color: #d2d2d2;
+ color: #686868;
+}
+.categoty-buttons > button:hover{
+   background-color: #2e4790;
+  color:white;
+ 
+}
