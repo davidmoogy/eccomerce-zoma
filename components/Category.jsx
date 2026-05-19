@@ -1,14 +1,14 @@
 
 import React from "react";
 
-export default function Category(){
+export default function Category({Setselectedcategory}){
     return(
         <div className="categoty-buttons">
-            <button className="cleaning">Cleaning</button>
-            <button className="kitchen">Kitchen</button>
-            <button className="Bathroom">Bathroom</button>
-            <button className="paper">Paper</button>
-            <button className="rags">rags</button>
+            <button onClick={() => Setselectedcategory("Cleaning")} className="cleaning">Cleaning</button>
+            <button onClick={() => Setselectedcategory("Kitchen")} className="kitchen">Kitchen</button>
+            <button onClick={() => Setselectedcategory("Bathroom")} className="Bathroom">Bathroom</button>
+            <button onClick={() => Setselectedcategory("Paper")} className="paper">Paper</button>
+            <button onClick={() => Setselectedcategory("Rags")} className="rags">Rags</button>
        </div>
     )
 }

@@ -6,7 +6,7 @@ const imageMap = Object.fromEntries(
   Object.entries(imageFiles).map(([key, url]) => [key.replace("../src/assets/", ""), url])
 )
 
-export default function Products(){
+export default function Products({selectedCategory}){
   const [productdata, setProductdata] = useState(products)
 
   const resolveImage = (imageUrl) => {
@@ -14,9 +14,16 @@ export default function Products(){
     return imageMap[fileName] ?? imageUrl
   }
 
+
+    const filteredProducts = selectedCategory
+    ? products.filter(
+        (item) => item.category === selectedCategory
+      )
+    : products;
+
   return(
     <>
-      {productdata.map((item) => (
+      {filteredProducts.map((item) => (
         <div className="card" key={item.id}>
           <div className="video-cart-buttons">
             <button className="video-btn" aria-label="Play video">
