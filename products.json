@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "ZOMA BAFIX FOAM",
+    "category": "Cleaning",
+    "price": 9.78,
+    "oldprice": 12.13,
+    "quantity": 9,
+    "videosrc": "https://example.com/video/1",
+    "imageurl": "src/assets/product.png"
+  },
+  {
+    "id": 2,
+    "name": "Kitchen Sponge Pro",
+    "category": "Kitchen",
+    "price": 3.50,
+    "oldprice": 12.13,
+    "quantity": 5,
+    "videosrc": "https://example.com/video/2",
+    "imageurl": "src/assets/product.png"
+  },
+  {
+    "id": 3,
+    "name": "Bathroom Cleaner Max",
+    "category": "Bathroom",
+    "price": 7.20,
+    "oldprice": 12.13,
+    "quantity": 2,
+    "videosrc": "https://example.com/video/3",
+    "imageurl": "src/assets/product.png"
+  },
+  {
+    "id": 4,
+    "name": "Soft Paper Towels",
+    "category": "Paper",
+    "price": 2.99,
+    "oldprice": 12.13,
+    "quantity": 6,
+    "videosrc": "https://example.com/video/4",
+    "imageurl": "src/assets/product.png"
+  },
+  {
+    "id": 5,
+    "name": "Cleaning Rags Pack",
+    "category": "Rags",
+    "price": 6.00,
+    "oldprice": 12.13,
+    "quantity": 4,
+    "videosrc": "https://example.com/video/5",
+    "imageurl": "src/assets/product.png"
+  },
+  {
+    "id": 6,
+    "name": "Cleaning Rags Pack",
+    "category": "Rags",
+    "price": 6.00,
+    "oldprice": 12.13,
+    "quantity": 4,
+    "videosrc": "https://example.com/video/5",
+    "imageurl": "src/assets/product.png"
+  },
+
+  { "id": 7, "name": "Product 7", "category": "Cleaning", "price": 5.10, "oldprice": 10.00, "quantity": 3, "videosrc": "https://example.com/video/7", "imageurl": "src/assets/product.png" },
+  { "id": 8, "name": "Product 8", "category": "Kitchen", "price": 6.20, "oldprice": 11.00, "quantity": 7, "videosrc": "https://example.com/video/8", "imageurl": "src/assets/product.png" },
+  { "id": 9, "name": "Product 9", "category": "Bathroom", "price": 4.30, "oldprice": 9.00, "quantity": 2, "videosrc": "https://example.com/video/9", "imageurl": "src/assets/product.png" },
+  { "id": 10, "name": "Product 10", "category": "Paper", "price": 8.00, "oldprice": 12.00, "quantity": 5, "videosrc": "https://example.com/video/10", "imageurl": "src/assets/product.png" },
+  { "id": 11, "name": "Product 11", "category": "Rags", "price": 3.90, "oldprice": 7.50, "quantity": 6, "videosrc": "https://example.com/video/11", "imageurl": "src/assets/product.png" },
+  { "id": 12, "name": "Product 12", "category": "Cleaning", "price": 9.10, "oldprice": 13.00, "quantity": 4, "videosrc": "https://example.com/video/12", "imageurl": "src/assets/product.png" },
+  { "id": 13, "name": "Product 13", "category": "Kitchen", "price": 2.80, "oldprice": 6.00, "quantity": 8, "videosrc": "https://example.com/video/13", "imageurl": "src/assets/product.png" },
+  { "id": 14, "name": "Product 14", "category": "Bathroom", "price": 7.70, "oldprice": 10.50, "quantity": 3, "videosrc": "https://example.com/video/14", "imageurl": "src/assets/product.png" },
+  { "id": 15, "name": "Product 15", "category": "Paper", "price": 5.50, "oldprice": 9.90, "quantity": 9, "videosrc": "https://example.com/video/15", "imageurl": "src/assets/product.png" },
+  { "id": 16, "name": "Product 16", "category": "Rags", "price": 6.60, "oldprice": 11.20, "quantity": 2, "videosrc": "https://example.com/video/16", "imageurl": "src/assets/product.png" },
+  { "id": 17, "name": "Product 17", "category": "Cleaning", "price": 4.40, "oldprice": 8.80, "quantity": 5, "videosrc": "https://example.com/video/17", "imageurl": "src/assets/product.png" },
+  { "id": 18, "name": "Product 18", "category": "Kitchen", "price": 7.30, "oldprice": 12.30, "quantity": 7, "videosrc": "https://example.com/video/18", "imageurl": "src/assets/product.png" },
+  { "id": 19, "name": "Product 19", "category": "Bathroom", "price": 3.60, "oldprice": 7.00, "quantity": 1, "videosrc": "https://example.com/video/19", "imageurl": "src/assets/product.png" },
+  { "id": 20, "name": "Product 20", "category": "Paper", "price": 8.90, "oldprice": 14.00, "quantity": 6, "videosrc": "https://example.com/video/20", "imageurl": "src/assets/product.png" },
+  { "id": 21, "name": "Product 21", "category": "Rags", "price": 2.20, "oldprice": 5.00, "quantity": 3, "videosrc": "https://example.com/video/21", "imageurl": "src/assets/product.png" },
+  { "id": 22, "name": "Product 22", "category": "Cleaning", "price": 6.40, "oldprice": 10.40, "quantity": 8, "videosrc": "https://example.com/video/22", "imageurl": "src/assets/product.png" },
+  { "id": 23, "name": "Product 23", "category": "Kitchen", "price": 9.20, "oldprice": 15.00, "quantity": 4, "videosrc": "https://example.com/video/23", "imageurl": "src/assets/product.png" },
+  { "id": 24, "name": "Product 24", "category": "Bathroom", "price": 5.80, "oldprice": 9.80, "quantity": 2, "videosrc": "https://example.com/video/24", "imageurl": "src/assets/product.png" },
+  { "id": 25, "name": "Product 25", "category": "Paper", "price": 3.30, "oldprice": 6.60, "quantity": 7, "videosrc": "https://example.com/video/25", "imageurl": "src/assets/product.png" },
+  { "id": 26, "name": "Product 26", "category": "Rags", "price": 7.10, "oldprice": 11.10, "quantity": 5, "videosrc": "https://example.com/video/26", "imageurl": "src/assets/product.png" }
+]
