@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": 1,
+    "date": "12 September 2026",
+    "title": "New Cleaning Products Released",
+    "description": "Discover our latest eco-friendly cleaning products for homes and offices.",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952"
+  },
+  {
+    "id": 2,
+    "date": "15 September 2026",
+    "title": "Kitchen Essentials Update",
+    "description": "Top-quality kitchen products are now available with new discounts.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "id": 3,
+    "date": "18 September 2026",
+    "title": "Bathroom Collection",
+    "description": "Modern and durable bathroom supplies for every business.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+  },
+  {
+    "id": 4,
+    "date": "20 September 2026",
+    "title": "Paper Products Sale",
+    "description": "Special offers on paper towels, tissues, and napkins.",
+    "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac"
+  },
+  {
+    "id": 5,
+    "date": "24 September 2026",
+    "title": "Professional Rags",
+    "description": "High-quality reusable rags for industrial and home cleaning.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
+  },
+  {
+    "id": 6,
+    "date": "28 September 2026",
+    "title": "Company Expansion",
+    "description": "We are expanding our services across Georgia with new offices.",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72"
+  }
+]

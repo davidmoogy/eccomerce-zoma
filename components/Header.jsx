@@ -1,5 +1,6 @@
 import logo from "../src/assets/logo.png";
 import flag from "../src/assets/flag.png";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
@@ -12,10 +13,10 @@ function Header() {
           <nav>
             <ul>
               <li>
-                <a href="">products</a>
+                <Link to="/products">products</Link>
               </li>
               <li>
-                <a href="">news</a>
+                <Link to="/news">news</Link>
               </li>
               <li>
                 <a href="">contact</a>
