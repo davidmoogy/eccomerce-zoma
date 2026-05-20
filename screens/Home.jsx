@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <div className="main">
-      <Header />
+      
       <Category Setselectedcategory={setSelectedCategory}/>
 
       <div className="products-container">
