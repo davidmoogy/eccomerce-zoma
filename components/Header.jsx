@@ -19,7 +19,8 @@ function Header() {
                 <Link to="/news">news</Link>
               </li>
               <li>
-                <a href="">contact</a>
+                
+                <Link to="/contact">contact</Link>
               </li>
             </ul>
           </nav>
